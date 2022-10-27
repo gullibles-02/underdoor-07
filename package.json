@@ -1,13 +1,10 @@
 {
-  "name": "ตรวจลอตเตอรี่ สรุปว่าอะไร - เว็บใหม่ 999lucky 2023 ล่าสุด",
+  "name": "vHWPkvPRg7C6J415LAnRR0EzEVXafT3uYUruFeK50JOlq7kP5G",
   "theme": "syntax",
   "version": "1.0.31",
   "description": "ตรวจลอตเตอรี่ ฟัน แต่ ตรวจลอตเตอรี่ ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง 1รูด วิ่ง     8 1เลข 2 ตัว ตรวจลอตเตอรี่   15 12 19 85 87 88ระวัง 29ขอให้สนุกกั",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": [
-    "ตรวจลอตเตอรี่",
-    "ตรวจลอตเตอรี่ 999Lucky"
-  ],
+  "keywords": ["ตรวจลอตเตอรี่","ตรวจลอตเตอรี่ 999Lucky"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
