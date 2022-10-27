@@ -1,10 +1,16 @@
 {
-  "name": "WWI7iYf3sMWwY8gL35EuMZRqAC9aXIVfwv2e5STLFmlSOxtx90",
+  "name": "wiko y82 สมัครยังไง - เว็บใหม่ ufa365 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.23",
   "description": "wiko y82 เบทฟิก ตาม wiko y82 ที่ UFA365 เว็บพนัน มีเกมพนันทุกชนิด 898 เว็บพนันออนไลน์ได้เงินจริงที่มาพร้อมกับเกมเดิมพันสนุก ๆ มากกว่า 100 เกม ซึ่งต้องบอกก่",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": ["WIKO Y82","WIKO","Y82","WIKO UFA365","Y82 UFA365"],
+  "keywords": [
+    "WIKO Y82",
+    "WIKO",
+    "Y82",
+    "WIKO UFA365",
+    "Y82 UFA365"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
