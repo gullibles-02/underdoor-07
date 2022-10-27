@@ -1,10 +1,10 @@
 {
-  "name": "CRVTf7KTl8GWnPtfdbU5hZMcZr4MYOdfd9leZMeMOqgOFoCDBV",
+  "name": "cx6kRrOlGfE1DvT9Xir7Pv5oj7PLGkVYU3uBTwW0GSiHmeAXKW",
   "theme": "syntax",
   "version": "1.0.46",
-  "description": "ตารางคะแนนลีกฟิลิปปินส์ หวยหุ้นไทยเป็นหวยที่มีรูปแบบการเสี่ยงโชค แต่ ตารางคะแนนลีกฟิลิปปินส์ Lotto หวยออนไลน์ อันดับหนึ่ง คล้ายกับการเล่นหวยรัฐบาลและหวยใต้",
+  "description": "เหรียญ alice ดีไหม สมัครแล้วอย่ามัวแต่รอช้าชักช้านี่รอกันอยู่เลยไม่อย่างนั้นคุณอาจจะพลาดโอกาสงามในการลุ้นโชคลุ้นเงินรางวัลใหญ่กับโบนัสก้อนโตที่แจกหนักรับเง",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": ["ตารางคะแนนลีกฟิลิปปินส์","ตารางคะแนนลีกฟิลิปปินส์ Lotto"],
+  "keywords": [null],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
