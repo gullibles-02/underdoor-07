@@ -1,13 +1,10 @@
 {
-  "name": "ตารางคะแนนลีกฟิลิปปินส์ มีคำตอบ - เว็บใหม่ lotto 2023 ล่าสุด",
+  "name": "CRVTf7KTl8GWnPtfdbU5hZMcZr4MYOdfd9leZMeMOqgOFoCDBV",
   "theme": "syntax",
   "version": "1.0.46",
   "description": "ตารางคะแนนลีกฟิลิปปินส์ หวยหุ้นไทยเป็นหวยที่มีรูปแบบการเสี่ยงโชค แต่ ตารางคะแนนลีกฟิลิปปินส์ Lotto หวยออนไลน์ อันดับหนึ่ง คล้ายกับการเล่นหวยรัฐบาลและหวยใต้",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": [
-    "ตารางคะแนนลีกฟิลิปปินส์",
-    "ตารางคะแนนลีกฟิลิปปินส์ Lotto"
-  ],
+  "keywords": ["ตารางคะแนนลีกฟิลิปปินส์","ตารางคะแนนลีกฟิลิปปินส์ Lotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
