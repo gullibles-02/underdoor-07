@@ -1,10 +1,22 @@
 {
-  "name": "IKQvD6rZ5wYk5J35u6mJbP2mMq7BJOEetEWMf2kPx22ZwRx53e",
+  "name": "เช็ค หวย 2 พฤษภาคม 2565 ดูยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.26",
   "description": "เช็ค หวย 2 พฤษภาคม 2565 ผลหวยลาว กะ เช็ค หวย 2 พฤษภาคม 2565 Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด 17165 ผลหวยพัฒนา 17165 ผลหวยลาววันนี้ ย้อนหลังผลหวยลาว 17",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": ["เช็ค หวย 2 พฤษภาคม 2565","เช็ค","หวย","2","พฤษภาคม","2565","เช็ค Lotto","หวย Lotto","2 Lotto","พฤษภาคม Lotto","2565 Lotto"],
+  "keywords": [
+    "เช็ค หวย 2 พฤษภาคม 2565",
+    "เช็ค",
+    "หวย",
+    "2",
+    "พฤษภาคม",
+    "2565",
+    "เช็ค Lotto",
+    "หวย Lotto",
+    "2 Lotto",
+    "พฤษภาคม Lotto",
+    "2565 Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
