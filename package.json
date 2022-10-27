@@ -1,10 +1,13 @@
 {
-  "name": "UCKNiarUhVi1hBnW70zdd0INAomlWwuKqM9PFP18NR3zHOqCvg",
+  "name": "กราฟหุ้นจีนบ่าย คืออะไร - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "กราฟหุ้นจีนบ่าย หวยลาว ทว่า กราฟหุ้นจีนบ่าย Choke โชค หวยออนไลน์ มีหวยทุกชนิด ຫວຍລາວ หรือ หวยพัฒนา ( กราฟหุ้นจีนบ่าย ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ใน",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": ["กราฟหุ้นจีนบ่าย","กราฟหุ้นจีนบ่าย Choke"],
+  "keywords": [
+    "กราฟหุ้นจีนบ่าย",
+    "กราฟหุ้นจีนบ่าย Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
