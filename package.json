@@ -1,10 +1,13 @@
 {
-  "name": "IVdHaxCEP0tXtUXU7VyR3V3KP5vFIdbhNq9bdHoiSZOx90NoEn",
+  "name": "สูตรเล่นหวยฮานอย สมัครยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "สูตรเล่นหวยฮานอย สถิติย้อนหลังหวยหุ้นอินเดีย สูตรเล่นหวยฮานอย และ สูตรเล่นหวยฮานอย ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง 10 งวด หลังจากที่ทุกคนได้ตรวจผลรางว",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": ["สูตรเล่นหวยฮานอย","สูตรเล่นหวยฮานอย Lotto"],
+  "keywords": [
+    "สูตรเล่นหวยฮานอย",
+    "สูตรเล่นหวยฮานอย Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
