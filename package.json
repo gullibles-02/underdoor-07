@@ -1,10 +1,13 @@
 {
-  "name": "oqWhixxnIKxUlwoLh15pI6R20ceb2VsRbOPkQKid0Jl2rCUQlc",
+  "name": "หวยหุ้นฮั่งเส็งวันนี้ ได้อย่างไร - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "หวยหุ้นฮั่งเส็งวันนี้ เลขเด็ดงวดนี้ โดย หวยหุ้นฮั่งเส็งวันนี้ ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง หลังวันแรงงาน ทางเว็บไซตืหวยไทยของเราขอนำเสนอ หวยสูตรวีไ",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": ["หวยหุ้นฮั่งเส็งวันนี้","หวยหุ้นฮั่งเส็งวันนี้ Lotto"],
+  "keywords": [
+    "หวยหุ้นฮั่งเส็งวันนี้",
+    "หวยหุ้นฮั่งเส็งวันนี้ Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
