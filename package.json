@@ -1,10 +1,13 @@
 {
-  "name": "Tuas0UvQO8qK80AOZ0cUmR8iAUDZAwYnrUObpxOi3mwRJ07df2",
+  "name": "วิเคราะห์หวยหุ้นฮั่งเส็ง เล่นยังไง - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "วิเคราะห์หวยหุ้นฮั่งเส็ง หวยฮานอยจ่ายสูงสุดในไทยซึ่งจะมีผลรางวัลทั้งหมด ตั้งแต่ วิเคราะห์หวยหุ้นฮั่งเส็ง ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง 8 รางวัลได้",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": ["วิเคราะห์หวยหุ้นฮั่งเส็ง","วิเคราะห์หวยหุ้นฮั่งเส็ง Huaydee"],
+  "keywords": [
+    "วิเคราะห์หวยหุ้นฮั่งเส็ง",
+    "วิเคราะห์หวยหุ้นฮั่งเส็ง Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
