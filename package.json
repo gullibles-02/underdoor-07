@@ -1,10 +1,13 @@
 {
-  "name": "cDVSHAMgVRA4qDALTfuUlzFbGkgSVxMzZFJwgGdbAe0F1M80yT",
+  "name": "หวยหุ้นสิงคโปร์ แตกต่างกันอย่างไร - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.63",
   "description": "หวยหุ้นสิงคโปร์ แนวทางเลขท้าย เพื่อ หวยหุ้นสิงคโปร์ Huaylike หวยออนไลน์ อันดับหนึ่ง 3 ตัวมีดังนี้457-475-574-547-745-754153-135-531-513-351-315975-957-759-",
   "repository": "https://github.com/gullibles-02/underdoor-07",
-  "keywords": ["หวยหุ้นสิงคโปร์","หวยหุ้นสิงคโปร์ Huaylike"],
+  "keywords": [
+    "หวยหุ้นสิงคโปร์",
+    "หวยหุ้นสิงคโปร์ Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
